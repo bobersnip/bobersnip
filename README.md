@@ -1,4 +1,4 @@
-👋 Hi, I’m Aidan Nagao, @bobersnip
+##👋 Hi, I’m Aidan Nagao, @bobersnip##
 
 I've always had a knack for solving problems. If there's a problem, I want to fix it, no matter how small. There is a personal drive that leads me to tackling each and every problem I can find, almost as if to prove to the world that no problem is too large for me.
 
@@ -9,6 +9,7 @@ I have created various projects in my computer science career, but there are two
 Today, I am a undergraduate senior studying Computer Science at Boston University, as well as a Cyber Security Analyst working for Hi Tech Hui LLC. Most recently, I have been assisting my mentor with the installation and setup of a new cyber security software called Tanium. Along with this, since this company is relatively new, I have been creating new systems and critiquing old ones, so that they may become more efficient for our new employees.
 
 Specialties: Python, C++, HTML, Java, SQL
+
 Software: Git, Excel, Slack, Teams, Visual Studio Code
 
 📫 How to reach me: bobersnip808@gmail.com
