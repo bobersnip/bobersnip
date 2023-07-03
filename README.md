@@ -10,7 +10,7 @@ Another of the few is a photo-sharing website that I built entirely from scratch
 
 The final project is an artificial intelligence that was able to tell, with reasonable accuracy, whether a patient had Covid-19 or pneumonia, based solely on x-ray photos. This project was done in Python with the help of Tensor Flow.
 
-Today, I am a undergraduate senior studying Computer Science at Boston University, as well as a Cyber Security Analyst working for Hi Tech Hui LLC. Most recently, I have been assisting my mentor with the installation and setup of a new cyber security software called Tanium. Along with this, since this company is relatively new, I have been creating new systems and critiquing old ones, so that they may become more efficient for our new employees.
+Today, I am a Software Development Engineer at Amazon.com Inc.. I have been so blessed to have the opportunity to work at one of the largest modern tech companies in the world.
 
 Specialties: Python, C++, HTML, Java, SQL
 
