@@ -12,7 +12,7 @@ The final project is an artificial intelligence that was able to tell, with reas
 
 Today, I am a Software Development Engineer at Amazon Inc.. I have been so blessed to have the opportunity to work at one of the largest modern tech companies in the world.
 
-Specialties: Python, C++, HTML, Java, SQL
+Specialties: Python, React, Typescript, C++, HTML, Java, SQL
 
 Software: Git, Excel, Slack, Teams, Visual Studio Code
 
