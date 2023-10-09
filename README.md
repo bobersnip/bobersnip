@@ -10,7 +10,7 @@ Another of the few is a photo-sharing website that I built entirely from scratch
 
 The final project is an artificial intelligence that was able to tell, with reasonable accuracy, whether a patient had Covid-19 or pneumonia, based solely on x-ray photos. This project was done in Python with the help of Tensor Flow.
 
-Today, I am a Software Development Engineer at Amazon.com Inc.. I have been so blessed to have the opportunity to work at one of the largest modern tech companies in the world.
+Today, I am a Software Development Engineer at Amazon Inc.. I have been so blessed to have the opportunity to work at one of the largest modern tech companies in the world.
 
 Specialties: Python, C++, HTML, Java, SQL
 
