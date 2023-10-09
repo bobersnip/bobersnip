@@ -16,7 +16,7 @@ Specialties: Python, C++, HTML, Java, SQL
 
 Software: Git, Excel, Slack, Teams, Visual Studio Code
 
-📫 How to reach me: bobersnip808@gmail.com
+📫 How to reach me: bobersnip808@gmail.com, nagaoaidan@gmail.com
 
 
 
